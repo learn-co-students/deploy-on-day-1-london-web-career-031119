@@ -4,7 +4,7 @@ lsd
 
 ## Contents
 
-|Section                            |
+|Sections|
 |-----------------------------------|
 |[History](#history)                |
 |[Assignment](#assignment)          |
