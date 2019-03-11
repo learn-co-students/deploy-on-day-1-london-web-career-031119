@@ -1,6 +1,6 @@
 
 
-# Deploy on Day One
+# Deploy on Day Ones
 
 ## Contents
 
