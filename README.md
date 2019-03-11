@@ -1,10 +1,10 @@
-
+lsd
 
 # Deploy on Day One
 
 ## Contents
 
-|Section                            |
+|Sections|
 |-----------------------------------|
 |[History](#history)                |
 |[Assignment](#assignment)          |
